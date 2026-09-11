@@ -1,0 +1,34 @@
+[
+    {
+        "name": "Data Structures Homework",
+        "course": "CSCI 1933",
+        "due": "2026-09-15",
+        "hours": 3,
+        "difficulty": 4,
+        "importance": 5
+    },
+    {
+        "name": "Biology Lab Report",
+        "course": "BIOL 101",
+        "due": "2026-09-13",
+        "hours": 2,
+        "difficulty": 3,
+        "importance": 3
+    },
+    {
+        "name": "Python Coding Project",
+        "course": "Computer Science",
+        "due": "2026-09-20",
+        "hours": 5,
+        "difficulty": 5,
+        "importance": 5
+    },
+    {
+        "name": "History Reading",
+        "course": "HIST 101",
+        "due": "2026-09-18",
+        "hours": 1,
+        "difficulty": 2,
+        "importance": 2
+    }
+]
