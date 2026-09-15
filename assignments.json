@@ -5,7 +5,8 @@
         "due": "2026-09-15",
         "hours": 3,
         "difficulty": 4,
-        "importance": 5
+        "importance": 5,
+        "assignment_type": "Homework"
     },
     {
         "name": "Biology Lab Report",
@@ -13,7 +14,8 @@
         "due": "2026-09-13",
         "hours": 2,
         "difficulty": 3,
-        "importance": 3
+        "importance": 3,
+        "assignment_type": "Lab"
     },
     {
         "name": "Python Coding Project",
@@ -21,7 +23,8 @@
         "due": "2026-09-20",
         "hours": 5,
         "difficulty": 5,
-        "importance": 5
+        "importance": 5,
+        "assignment_type": "Project"
     },
     {
         "name": "History Reading",
@@ -29,6 +32,7 @@
         "due": "2026-09-18",
         "hours": 1,
         "difficulty": 2,
-        "importance": 2
+        "importance": 2,
+        "assignment_type": "Reading"
     }
 ]

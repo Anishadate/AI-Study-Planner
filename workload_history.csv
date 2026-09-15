@@ -1,0 +1,21 @@
+difficulty,importance,assignment_type,course,actual_hours
+1,1,Reading,HIST 101,0.5
+2,2,Reading,HIST 101,1
+2,3,Homework,BIOL 101,1.5
+3,3,Lab,BIOL 101,2
+3,4,Homework,CSCI 1933,2.5
+4,4,Homework,CSCI 1933,3
+4,5,Project,Computer Science,4
+5,5,Project,Computer Science,6
+5,5,Project,CSCI 1933,5.5
+3,3,Homework,CSCI 1933,2
+4,3,Lab,BIOL 101,3
+2,2,Reading,HIST 101,1
+5,4,Project,Computer Science,5
+4,5,Homework,CSCI 1933,4
+3,2,Reading,HIST 101,1.5
+2,3,Homework,BIOL 101,1.5
+4,4,Project,Computer Science,4.5
+5,5,Project,Computer Science,6
+3,4,Lab,BIOL 101,2.5
+4,5,Homework,CSCI 1933,3.5
